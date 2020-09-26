@@ -5,4 +5,4 @@
 
 저장소에 대한 소개글을 작성합니다.
 
-![짱구](./images/jjanggu.jpg)
+![짱구](/images/jjanggu.jpg)
